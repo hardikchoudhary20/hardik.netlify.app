@@ -1,0 +1,20 @@
+.site-header{
+    background-color: aqua;
+    color:navy;
+    font-family: Calibri;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.profile-pic{
+    border-radius: 70%;
+    align-self:left;
+    box-shadow: black;
+}
+body{
+    margin: 0%;
+
+}
